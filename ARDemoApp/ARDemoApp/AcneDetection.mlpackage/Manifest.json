@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "0059206B-A699-4E8D-AB94-F764FB817C5F": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "35B3F65A-8EF7-4CB9-8621-2E25B8A4D085": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        },
+        "828FEB55-5F38-4889-854B-C8B0B3005F09": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "AcneDetection.mlmodel",
+            "path": "com.apple.CoreML/AcneDetection.mlmodel"
+        }
+    },
+    "rootModelIdentifier": "828FEB55-5F38-4889-854B-C8B0B3005F09"
+}
